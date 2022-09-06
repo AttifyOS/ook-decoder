@@ -1,5 +1,5 @@
 [package_detail]
-name = "ookdecoder"
+name = "ook-decoder"
 description = "Ook-decoder reads On-Off Keying radio data commonly used in the 433MHz ISM bands using a software defined radio"
 version = "july19-2021-cc108f9"
 source_url = "https://github.com/jimstudt/ook-decoder"
